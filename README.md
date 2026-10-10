@@ -1,4 +1,16 @@
-## Hi there 👋
+# Olá, eu sou o João 👋
+
+Estudante de Ciência da Computação na UNIP. Estou em busca de estágio em tecnologia e dados.
+
+## Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/joaoppprado/)
 
 <!--
 **joaoppprado/JoaoPPPrado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
