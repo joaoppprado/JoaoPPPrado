@@ -1,6 +1,6 @@
-# Olá, eu sou o João 👋
+# Olá, Mundo!
 
-Estudante de Ciência da Computação na UNIP. Estou em busca de estágio em tecnologia e dados.
+Estudante de Ciência da Computação. Estou em busca de estágio em tecnologia e dados.
 
 ## Stack
 
