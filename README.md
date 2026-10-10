@@ -1,6 +1,6 @@
-# Olá, Mundo!
+# Hello, World!
 
-Estudante de Ciência da Computação. Estou em busca de estágio em tecnologia e dados.
+Computer Science Student
 
 ## Stack
 
@@ -8,7 +8,7 @@ Estudante de Ciência da Computação. Estou em busca de estágio em tecnologia 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
-## Contato
+## Contact
 
 [LinkedIn](https://www.linkedin.com/in/joaoppprado/)
 
